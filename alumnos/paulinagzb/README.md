@@ -1,5 +1,5 @@
 # Actividad 3.
-![Foto de perfil](/Users/paulinagonzalez/Desktop/personal/Paulina/Fotos/IMG_5095.jpg)
+![Foto de perfil](./imagenes/IMG_5095.jpg)
 ## Paulina Gonzalez Bustamante 
 ### A01781530 
 **Rol dentro de tu equipo: programadora**
