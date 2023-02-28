@@ -2,7 +2,7 @@
 
 1. Foto de Perfil
 
-![GitHub Logo](/images/"C:\Users\paola\OneDrive\Desktop\IMG_9764.jpg")
+![YO](/images/"C:\Users\paola\OneDrive\Desktop\IMG_9764.jpg")
 
 2. Quien soy?
   Paola Martinez
