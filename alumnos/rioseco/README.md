@@ -1,4 +1,4 @@
-![GitHub Logo](C:\Users\Rodrigo\Desktop\ia-test\inteligencia_artificial_2023\alumnos\rioseco\Imagenes\Foto_informal.jpg)
+![Foto](./Imagenes/Foto_informal.jpg)
 # **Rodrigo Rioseco**
 ## *A01751944*
 ### A/B Tester
