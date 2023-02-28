@@ -1,17 +1,19 @@
 # Actividad 3
 ## 1. Foto de perfil
+
 ![Foto de perfil de mi rostro](.\imagenes/PP.JPG)
 
-## 2. Nombre y matrícula
+
+## 2. Nombre y matrÃ­cula
 Santiago Salazar A01781543
 
 ## 3. Bio
-Tengo 22 años y soy estudiante de la carrera de Inteligencia de Negocios (LIT) en 6to semestre, estudio en Campus Santa Fe y también laboro como digital Customer Engagement Manager en SAP México.
-Disfruto programar en Python y también uso PowerBI para realizar reportes.
+Tengo 22 aÃ±os y soy estudiante de la carrera de Inteligencia de Negocios (LIT) en 6to semestre, estudio en Campus Santa Fe y tambiÃ©n laboro como digital Customer Engagement Manager en SAP MÃ©xico.
+Disfruto programar en Python y tambiÃ©n uso PowerBI para realizar reportes.
 
 ## 4. Rol
-Mi rol en el equipo es ser el **Líder**.
+Mi rol en el equipo es ser el **LÃ­der**.
 
-## 5. Número de equipo
+## 5. NÃºmero de equipo
 Equipo 1
 
