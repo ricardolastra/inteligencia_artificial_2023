@@ -1,6 +1,6 @@
 # Actividad 3 
 ## 1. Una foto mía 
-[Mi foto](file:///Users/ramsesnavarroramsesnavarro/Desktop/ia-test/inteligencia_artificial_2023/alumnos/Ram_navarro/Imagenes/perfil.jpeg)
+[Mi foto](https://github.com/RamJr2602/inteligencia_artificial_2023/blob/main/alumnos/Ram_navarro/Imagenes/perfil.jpeg)
 
 ## 2. Datos personales
 
