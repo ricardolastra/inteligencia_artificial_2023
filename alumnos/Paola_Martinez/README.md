@@ -2,7 +2,7 @@
 
 1. Foto de Perfil
 
-![YO](/images/"C:\Users\paola\OneDrive\Desktop\IMG_9764.jpg")
+![YO](/images/IMG_9764")
 
 2. Quien soy?
   Paola Martinez
