@@ -1,7 +1,7 @@
 # Actividad 3 
 ## 1. Una foto mía 
 
-[Mi foto](./Imagenes/perfil.jpeg)
+![Mi foto](./Imagenes/perfil.jpeg)
 
 ## 2. Datos personales
 
