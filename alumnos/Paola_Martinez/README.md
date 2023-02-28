@@ -9,9 +9,9 @@
   A01025290
   
 3. CV
-  *Intern Postventa __BMW__
-  *__PowerBI__
-  *Excel __VBA__
+  * Intern Postventa __BMW__
+  * __PowerBI__
+  * Excel __VBA__
   
 5. Rol en mi equipo
   * Developer
