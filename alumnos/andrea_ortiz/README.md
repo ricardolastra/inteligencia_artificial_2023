@@ -1,5 +1,5 @@
 # PERFIL
-![FOTO DE PERFIL](https://github.com/andyortizsa/fotos2023/issues/1#issue-1602271574)
+![FOTO DE PERFIL](./imagenes/foto.jpg)
 
 ## Andrea Ortiz
 ### A01566886
