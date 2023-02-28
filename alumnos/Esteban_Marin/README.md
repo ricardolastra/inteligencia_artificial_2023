@@ -1,6 +1,6 @@
 ### Perfil Académico 
 
-![Foto_Perfil](https://raw.github.com/Steve7504/Fotos/issues/1#issue-1602277254)
+![Foto_Perfil](https://github.com/Steve7504/Fotos/issues/1#issue-1602277254)
 
 
 ```python
