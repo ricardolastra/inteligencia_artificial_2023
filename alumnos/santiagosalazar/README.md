@@ -1,7 +1,7 @@
 # Actividad 3
 ## 1. Foto de perfil
 
-![Foto de perfil de mi rostro](.\imagenes/PP.JPG)
+![Foto de perfil de mi rostro](https://github.com/santiagosalazarpulido/inteligencia_artificial_2023/blob/main/alumnos/santiagosalazar/Imagenes/PP.JPG)
 
 
 ## 2. Nombre y matrícula
