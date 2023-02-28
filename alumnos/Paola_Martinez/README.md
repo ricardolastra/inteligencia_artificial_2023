@@ -2,7 +2,7 @@
 
 1. Foto de Perfil
 
-![YO](.\imagenes/IMG_9764.jpg)
+![YO](C:\Users\paola\Desktop\inteligencia_artificial\inteligencia_artificial_2023\alumnos\Paola_Martinez\imagenes\IMG_9764.jpg)
 
 2. Quien soy?
   * Paola Martinez
