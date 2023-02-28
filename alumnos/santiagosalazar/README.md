@@ -1,6 +1,6 @@
 # Actividad 3
 ## 1. Foto de perfil
-![Foto de perfil de mi rostro](C:\Users\ssp11\OneDrive\Pictures)
+![Foto de perfil de mi rostro](.\imagenes/PP.JPG)
 
 ## 2. Nombre y matrícula
 Santiago Salazar A01781543
