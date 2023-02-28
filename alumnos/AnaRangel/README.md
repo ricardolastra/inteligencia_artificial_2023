@@ -1,6 +1,6 @@
 # ¡HOLA! :rocket: 
 ###
-![ ](Users/Ana/Desktop/ia-test/inteligencia_artificial_2023/alumnos/AnaRangel/Fotos\foto.jpg)
+![Esta soy yo](./Fotos/foto.jpg)
 ### Ana Rangel
 ### A01029769
 ###
