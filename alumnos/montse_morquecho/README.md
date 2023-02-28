@@ -1,6 +1,6 @@
 # Perfil de estudiante
 
-![FOTO](https://github.com/monmon7487/foto/issues/1#issue-1602305100)
+![FOTO](./imagenes/credencial.jpeg)
         
 
 ## Montserrat Morquecho Davila A01367487
