@@ -1,6 +1,6 @@
 # Perfil de estudiante
 
-![FOTO](./imagenes/credencial.jpg)
+![FOTO](./imagenes/credencial.jpeg)
         
 
 ## Montserrat Morquecho Davila A01367487
