@@ -5,8 +5,8 @@
 ![YO](.\images/IMG_9764")
 
 2. Quien soy?
-  Paola Martinez
-  A01025290
+  * Paola Martinez
+  * A01025290
   
 3. CV
   * Intern Postventa __BMW__
