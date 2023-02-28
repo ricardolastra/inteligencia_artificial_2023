@@ -2,7 +2,7 @@
 
 1. Foto de Perfil
 
-![YO](/images/IMG_9764")
+![YO](.\images/IMG_9764")
 
 2. Quien soy?
   Paola Martinez
