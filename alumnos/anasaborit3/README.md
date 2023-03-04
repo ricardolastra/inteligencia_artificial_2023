@@ -10,7 +10,7 @@
 ***En el equipo 3 soy desarrolladora***
 
 
-![Mi foto](/Imagen/Foto Formal.jpg)
+![Mi foto](/Imagen/Foto Formal.JPG)
 
 prueba
 
