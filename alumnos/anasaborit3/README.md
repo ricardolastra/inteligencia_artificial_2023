@@ -10,5 +10,8 @@
 ***En el equipo 3 soy desarrolladora***
 
 
-![Mi foto](./Imagen/Foto Formal.jpeg)
+![Mi foto](/Imagen/Foto Formal.jpg)
+
+prueba
+
 
